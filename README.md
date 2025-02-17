@@ -14,5 +14,6 @@ inorder to run the main script I just clicked run on replit using python
 -install numpy library
 -installpandas
 
+The output is put in a separate document in the repository
 
 
